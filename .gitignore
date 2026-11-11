@@ -1,7 +1,8 @@
-# Autenticação — NUNCA commite este arquivo!
+# Autenticação — NUNCA commitar!
 browser.json
+browser.json.bak
 
-# Músicas não encontradas (gerado automaticamente)
+# Arquivos gerados automaticamente
 nao_encontradas.csv
 
 # Python
@@ -16,6 +17,7 @@ build/
 .eggs/
 *.egg
 .venv/
+.venv*/
 venv/
 env/
 
@@ -28,8 +30,6 @@ env/
 # Sistema
 .DS_Store
 Thumbs.db
- 
-# Protecao adicional 
-browser.json.bak 
-.venv*/ 
+
+# Clone local do repositório
 ConversoSpot/
